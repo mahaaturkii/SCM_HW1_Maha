@@ -1,0 +1,2 @@
+Software Configuration Management (SCM) is essential for maintaining the integrity and consistency of a project.
+It provides a systematic approach to tracking changes,which prevents version conflicts and ensures that the development process remains organized and traceable.
